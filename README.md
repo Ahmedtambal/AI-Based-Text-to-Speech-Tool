@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/7e83c5b7-3d96-4252-a92a-457d979d56d5)
 
 
-This repository contains a Text-to-Speech (TTS) tool that leverages the BARK model by Suno for generating natural-sounding audio from text input. The tool provides multiple voices across different languages, allowing users to select their preferred voice characteristics.
+This repository contains a Text-to-Speech (TTS) tool that leverages the BARK model by Suno for generating natural-sounding audio from English and Chinese text input. The tool provides multiple voices across different languages, allowing users to select their preferred voice characteristics.
 
 ## **Features**
 - **Multiple Voices**: Choose between male and female voices in English and Chinese.
