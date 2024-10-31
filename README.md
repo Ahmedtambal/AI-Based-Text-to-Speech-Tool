@@ -51,6 +51,7 @@ The BARK model by Suno is a powerful Text-to-Speech (TTS) model designed to crea
 - Length Constraints: Due to its transformer structure, BARK has a maximum input length. For longer texts, you’ll need to split the input into shorter sentences.
 - Noise at Sentence Boundaries: In some cases, the model may add slight noise or artifacts between sentences, especially if sentences are short or abrupt.
 - Handling Parentheses: Content in parentheses may sometimes be omitted in the audio output. If this happens, rephrase the text using commas or other punctuation.
+- It can take up to 1 minute to generate an audio depending on the length of the text.
 
 ### **Pros**
 - High-Quality Audio: BARK produces clear, expressive audio with lifelike intonation.
