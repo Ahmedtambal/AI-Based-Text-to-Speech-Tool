@@ -1,5 +1,8 @@
 # AI-Based Text-to-Speech Tool
 
+![image](https://github.com/user-attachments/assets/7e83c5b7-3d96-4252-a92a-457d979d56d5)
+
+
 This repository contains a Text-to-Speech (TTS) tool that leverages the BARK model by Suno for generating natural-sounding audio from text input. The tool provides multiple voices across different languages, allowing users to select their preferred voice characteristics.
 
 ## **Features**
